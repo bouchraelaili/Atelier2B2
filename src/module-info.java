@@ -1,0 +1,2 @@
+module Altelier2B {
+}
